@@ -1,0 +1,8 @@
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/CMakeFiles/Sorting2.dir
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/CMakeFiles/Sorting2_TEST.dir
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/src/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/src/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/src_test/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercitazione_6_Sorting/Debug/src_test/CMakeFiles/rebuild_cache.dir
